@@ -1,0 +1,9 @@
+README.md
+setup.py
+abs_data/__init__.py
+abs_data.egg-info/PKG-INFO
+abs_data.egg-info/SOURCES.txt
+abs_data.egg-info/dependency_links.txt
+abs_data.egg-info/not-zip-safe
+abs_data.egg-info/requires.txt
+abs_data.egg-info/top_level.txt
