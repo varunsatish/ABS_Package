@@ -12,6 +12,5 @@ setup(name='abs_data',
       install_requires=[
           'pandas',
           'sqlalchemy',
-          'sqlalchemy.orm'
       ],
       zip_safe=False)
