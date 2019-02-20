@@ -1,8 +1,8 @@
 import setuptools
 from setuptools import setup
 
-setup(name='abs_data',
-      version='0.1',
+setup(name='absdata',
+      version='0.3',
       description='Access to ABS data and correspondencies',
       url='https://github.com/varunsatish/ABS_Package',
       author='Varun Satish',
