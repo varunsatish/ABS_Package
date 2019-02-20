@@ -11,6 +11,6 @@ setup(name='abs_data',
       packages=setuptools.find_packages(),
       install_requires=[
           'pandas',
-          'sqlalchemy',
+          'sqlalchemy'
       ],
       zip_safe=False)
